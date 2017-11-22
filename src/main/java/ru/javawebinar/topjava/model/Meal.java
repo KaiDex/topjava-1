@@ -9,7 +9,6 @@ public class Meal {
 
     private final LocalDateTime dateTime;
 
-    //
     private final String description;
 
     private final int calories;
